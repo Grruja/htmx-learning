@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="22abb7fc-c355-41de-8662-50a21decf5d3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/webshop/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/webshop/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/webshop/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/webshop/vendor/graham-campbell/result-type" />
+      <path value="$PROJECT_DIR$/webshop/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/webshop/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/webshop/vendor/phpoption/phpoption" />
+      <path value="$PROJECT_DIR$/webshop/vendor/composer" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="2ce5JBEx94E7gEwMm5ZzWQRQTME" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\htmx_learning\webshop\view\fragments" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="22abb7fc-c355-41de-8662-50a21decf5d3" name="Default Changelist" comment="" />
+      <created>1708459129897</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1708459129897</updated>
+      <workItem from="1708459130958" duration="2000" />
+      <workItem from="1708459219086" duration="5662000" />
+      <workItem from="1708532695404" duration="3000" />
+      <workItem from="1708539508319" duration="3000" />
+      <workItem from="1708601631246" duration="10012000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="314" y="447" key="NewPhpFileDialog" timestamp="1708651783343">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="314" y="447" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1708651783343" />
+    <state x="187" y="123" width="585" height="801" key="find.popup" timestamp="1708602931323">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="187" y="123" width="585" height="801" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1708602931323" />
+    <state x="150" y="229" width="672" height="678" key="search.everywhere.popup" timestamp="1708652634679">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="150" y="229" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1708652634679" />
+  </component>
+</project>
