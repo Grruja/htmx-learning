@@ -16,12 +16,3 @@
         </a>
     </div>
 <?php endforeach; ?>
-
-<?php foreach ($products as $item) : ?>
-        <div>
-            <img src="<?= BASE_URL.$item['image'] ?>" alt="Plant in a pot">
-            <p><?= $item['name'] ?></p>
-            <p><?= $item['quantity'] ?> left</p>
-            <p>$<?= $item['price'] ?></p>
-        </div>
-<?php endforeach; ?>

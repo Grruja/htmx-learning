@@ -17,7 +17,7 @@ include 'components/head.php';
                    class="form-control me-2 mb-5"
                    name="search_value" type="search" placeholder="Search">
         </div>
-aa
+
         <div id="search-results" class="mt-5 row row-cols-1 row-cols-md-4 row-cols-sm-2 g-4">
 
             <!-- productCard.php -->
