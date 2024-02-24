@@ -19,7 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="22abb7fc-c355-41de-8662-50a21decf5d3" name="Default Changelist" comment="" />
+    <list default="true" id="22abb7fc-c355-41de-8662-50a21decf5d3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webshop/view/shop.php" beforeDir="false" afterPath="$PROJECT_DIR$/webshop/view/shop.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -72,7 +75,17 @@
       <workItem from="1708532695404" duration="3000" />
       <workItem from="1708539508319" duration="3000" />
       <workItem from="1708601631246" duration="10012000" />
+      <workItem from="1708699118626" duration="3078000" />
+      <workItem from="1708802888294" duration="205000" />
     </task>
+    <task id="LOCAL-00001" summary="implemented template fragments &amp; search">
+      <created>1708699412550</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1708699412550</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -90,18 +103,26 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="implemented template fragments &amp; search" />
+    <option name="LAST_COMMIT_MESSAGE" value="implemented template fragments &amp; search" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="314" y="447" key="NewPhpFileDialog" timestamp="1708651783343">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="314" y="447" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1708651783343" />
+    <state x="79" y="240" key="Vcs.Push.Dialog.v2" timestamp="1708699414181">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="79" y="240" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1708699414181" />
     <state x="187" y="123" width="585" height="801" key="find.popup" timestamp="1708602931323">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="187" y="123" width="585" height="801" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1708602931323" />
-    <state x="150" y="229" width="672" height="678" key="search.everywhere.popup" timestamp="1708652634679">
+    <state x="150" y="229" width="672" height="678" key="search.everywhere.popup" timestamp="1708700117289">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="150" y="229" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1708652634679" />
+    <state x="150" y="229" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1708700117289" />
   </component>
 </project>
