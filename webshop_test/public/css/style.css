@@ -1,0 +1,140 @@
+/*================ TAGS ================*/
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    box-sizing: border-box;
+    font-family: 'Times New Roman', serif;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+main {
+    flex-grow: 1;
+}
+
+p {
+    margin: 0;
+}
+
+#cartProductImage {
+    width: 100px;
+}
+
+
+/*================ HOME ================*/
+#homeBgImg {
+    background-image: url("../../public/assets/home_bg_img.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 80vh;
+    position: relative;
+}
+
+#homeTextBg {
+    position: absolute;
+    left: 0;
+    border-top-right-radius: 200px;
+    border-bottom-right-radius: 200px;
+}
+#homeText {
+    float: right;
+}
+
+#aboutParent {
+    background: #0d3125;
+    -webkit-transform: skewY(4deg);
+    -moz-transform: skewY(4deg);
+    -ms-transform: skewY(4deg);
+    -o-transform: skewY(4deg);
+    transform: skewY(4deg);
+}
+#aboutChild {
+    color: white;
+    -webkit-transform: skewY(-4deg);
+    -moz-transform: skewY(-4deg);
+    -ms-transform: skewY(-4deg);
+    -o-transform: skewY(-4deg);
+    transform: skewY(-4deg);
+}
+
+
+/*================ SHOP ================*/
+#shopBgImg {
+    background-image: url("../../public/assets/shop_banner.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+/*================ MEDIA ================*/
+@media only screen and (max-width: 992px) {
+    #navbarNoBg {
+        background: rgba(0, 0, 0, 0.3);
+        backdrop-filter: blur(8px);
+    }
+
+    #homeTextBg {
+        right: 0;
+        border-top-right-radius: 0;
+        border-bottom-right-radius: 0;
+        background: none !important;
+    }
+    #homeText {
+        float: none;
+        text-align: center;
+    }
+}
+
+@media only screen and (max-width: 575px) {
+    #homeBgImg {
+        height: 70vh;
+    }
+
+    .custom-col-xs-2 {
+        flex: 0 0 50%;
+        max-width: 50%;
+    }
+
+    .custom-col-xs-quantity {
+        max-width: 15%;
+    }
+}
+
+@media only screen and (max-width: 390px) {
+    #homeBgImg {
+        height: 60vh;
+    }
+
+    #cartProductImage {
+        height: 100%;
+    }
+
+    .custom-col-xs-quantity {
+        max-width: 25%;
+    }
+}
+
+@media only screen and (max-width: 300px) {
+    .custom-col-xs-2 {
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+}
+
+@media only screen and (max-height: 480px) {
+    #homeBgImg {
+        height: 100vh;
+    }
+}

@@ -19,10 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="22abb7fc-c355-41de-8662-50a21decf5d3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webshop/view/shop.php" beforeDir="false" afterPath="$PROJECT_DIR$/webshop/view/shop.php" afterDir="false" />
-    </list>
+    <list default="true" id="22abb7fc-c355-41de-8662-50a21decf5d3" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -76,7 +73,7 @@
       <workItem from="1708539508319" duration="3000" />
       <workItem from="1708601631246" duration="10012000" />
       <workItem from="1708699118626" duration="3078000" />
-      <workItem from="1708802888294" duration="205000" />
+      <workItem from="1708802888294" duration="520000" />
     </task>
     <task id="LOCAL-00001" summary="implemented template fragments &amp; search">
       <created>1708699412550</created>
@@ -85,7 +82,14 @@
       <option name="project" value="LOCAL" />
       <updated>1708699412550</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="test">
+      <created>1708803315147</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1708803315147</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -105,7 +109,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="implemented template fragments &amp; search" />
-    <option name="LAST_COMMIT_MESSAGE" value="implemented template fragments &amp; search" />
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
   </component>
   <component name="WindowStateProjectService">
     <state x="314" y="447" key="NewPhpFileDialog" timestamp="1708651783343">
