@@ -26,6 +26,16 @@ p {
     margin: 0;
 }
 
+.htmx-indicator {
+    display: none;
+}
+.htmx-request .htmx-indicator {
+    display: inline;
+}
+.htmx-request .htmx-indicator {
+    display: inline;
+}
+
 #cartProductImage {
     width: 100px;
 }

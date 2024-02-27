@@ -13,12 +13,15 @@ $router = new Router();
 
 $router->get(BASE_URL . '/', fn() => require_once '../view/welcome.php');
 $router->get(BASE_URL . '/shop', fn() => require_once '../view/shop.php');
-$router->get(BASE_URL . '/product', ProductController::class . '::permalink');
-$router->get(BASE_URL . '/product-search', ProductController::class . '::searchByName');
 $router->get(BASE_URL . '/cart', fn() => require_once '../view/cart.php');
 $router->get(BASE_URL . '/checkout', fn() => require_once '../view/checkout.php');
+
+$router->get(BASE_URL . '/product', ProductController::class . '::permalink');
+$router->get(BASE_URL . '/product-search', ProductController::class . '::searchByName');
+
 $router->post(BASE_URL . '/cart/add-product', CartController::class . '::addProduct');
 $router->post(BASE_URL . '/cart/remove-product', CartController::class . '::removeFromCart');
+
 $router->post(BASE_URL . '/order/send', OrderController::class . '::place');
 
 // Auth

@@ -1,6 +1,6 @@
 <?php foreach ($products as $item) : ?>
     <div class="col custom-col-xs-2">
-        <a href="../../public/index.php" class="text-decoration-none text-dark w-100">
+        <a href="product?product_id=<?= $item['id'] ?>" class="text-decoration-none text-dark w-100">
             <div class="bg-light rounded-2 border p-lg-4 p-3 h-100">
                 <div class="d-flex justify-content-center mb-4">
                     <img src="<?= BASE_URL.$item['image'] ?>" alt="Plant in a pot" class="w-100 rounded-2">

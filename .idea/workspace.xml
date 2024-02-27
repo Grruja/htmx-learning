@@ -19,10 +19,13 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="22abb7fc-c355-41de-8662-50a21decf5d3" name="Default Changelist" comment="">
+    <list default="true" id="22abb7fc-c355-41de-8662-50a21decf5d3" name="Default Changelist" comment="fix">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webshop_test/public/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/webshop_test/public/index.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/webshop_test/view/fragments/productCard.php" beforeDir="false" afterPath="$PROJECT_DIR$/webshop_test/view/fragments/productCard.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webshop_test/view/product.php" beforeDir="false" afterPath="$PROJECT_DIR$/webshop_test/view/product.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/webshop_test/view/shop.php" beforeDir="false" afterPath="$PROJECT_DIR$/webshop_test/view/shop.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webshop_test/view/welcome.php" beforeDir="false" afterPath="$PROJECT_DIR$/webshop_test/view/welcome.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +80,8 @@
       <workItem from="1708539508319" duration="3000" />
       <workItem from="1708601631246" duration="10012000" />
       <workItem from="1708699118626" duration="3078000" />
-      <workItem from="1708802888294" duration="940000" />
+      <workItem from="1708802888294" duration="4136000" />
+      <workItem from="1708904342642" duration="687000" />
     </task>
     <task id="LOCAL-00001" summary="implemented template fragments &amp; search">
       <created>1708699412550</created>
@@ -100,7 +104,14 @@
       <option name="project" value="LOCAL" />
       <updated>1708803522391</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="fix">
+      <created>1708803861180</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1708803861180</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -122,24 +133,25 @@
     <MESSAGE value="implemented template fragments &amp; search" />
     <MESSAGE value="test" />
     <MESSAGE value="rename directory" />
-    <option name="LAST_COMMIT_MESSAGE" value="rename directory" />
+    <MESSAGE value="fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix" />
   </component>
   <component name="WindowStateProjectService">
     <state x="314" y="447" key="NewPhpFileDialog" timestamp="1708651783343">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="314" y="447" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1708651783343" />
-    <state x="79" y="240" key="Vcs.Push.Dialog.v2" timestamp="1708803527292">
+    <state x="79" y="240" key="Vcs.Push.Dialog.v2" timestamp="1708803862461">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="79" y="240" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1708803527292" />
+    <state x="79" y="240" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1708803862461" />
     <state x="187" y="123" width="585" height="801" key="find.popup" timestamp="1708602931323">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="187" y="123" width="585" height="801" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1708602931323" />
-    <state x="150" y="229" width="672" height="678" key="search.everywhere.popup" timestamp="1708700117289">
+    <state x="150" y="229" width="672" height="678" key="search.everywhere.popup" timestamp="1708805850111">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="150" y="229" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1708700117289" />
+    <state x="150" y="229" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1708805850111" />
   </component>
 </project>
