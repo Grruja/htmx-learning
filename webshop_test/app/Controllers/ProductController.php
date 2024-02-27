@@ -50,6 +50,7 @@ class ProductController extends Controller
 
     public function searchByName(): void
     {
+        sleep(3);
         if (!isset($_GET['search_value'])) {
             $products = $this->productModel->getAll();
             $this->renderFragment('/productCard.php', ['products' => $products]);

@@ -14,6 +14,7 @@ include 'components/head.php';
                 <input hx-get="<?= BASE_URL ?>/product-search" 
                         hx-trigger="load, keyup change delay:1s" 
                         hx-target="#search-results" 
+                        hx-swap="transition:true"
                         hx-indicator="#search-product-indicator"
                         class="form-control me-2 mb-5" 
                         name="search_value" type="search" placeholder="Search">
