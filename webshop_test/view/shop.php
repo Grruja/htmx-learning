@@ -18,17 +18,20 @@ include 'components/head.php';
                         class="form-control me-2 mb-5" 
                         name="search_value" type="search" placeholder="Search">
                 
-                <div id="search-product-indicator" class="d-flex justify-content-center position-absolute end-0 top-0 me-5" style="margin-top: 6px;">
-                    <div class="spinner-border text-success htmx-indicator" style="width: 25px; height: 25px;" role="status">
+            </div>
+                    
+            <div>
+                <div id="search-product-indicator" class="d-flex justify-content-center">
+                    <div class="spinner-border text-success htmx-indicator mt-5" role="status">
                         <span class="visually-hidden">Loading...</span>
                     </div>
                 </div>
-            </div>
 
-            <div id="search-results" class="mt-5 row row-cols-1 row-cols-md-4 row-cols-sm-2 g-4">
-
-                <!-- productCard.php -->
-            
+                <div id="search-results" class="mt-5 row row-cols-1 row-cols-md-4 row-cols-sm-2 g-4">
+    
+                    <!-- productCard.php -->
+                
+                </div>
             </div>
         </div>
     </main>
