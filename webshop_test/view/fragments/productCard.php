@@ -5,7 +5,7 @@
                 <div class="d-flex justify-content-center mb-4">
                     <img src="<?= BASE_URL.$item['image'] ?>" alt="Plant in a pot" class="w-100 rounded-2">
                 </div>
-                <p class="fw-bold fs-5"><?= $item['name'] ?></p>
+                <p class="fw-bold fs-5" id="name"><?= $item['name'] ?></p>
                 <?php if ($item['quantity'] == 0) : ?>
                     <span class="border border-danger text-danger p-1 fs-bold" style="font-size: 10px">SOLD OUT</span>
                 <?php else: ?>
